@@ -307,6 +307,9 @@ Each item includes name, description, and price.
 - `gradio` - Web interface
 - `requests` - HTTP client
 
+## Testing
+https://barista-agent-ui-823002731253.us-central1.run.app
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -318,7 +321,7 @@ Each item includes name, description, and price.
 ## 👤 Author
 
 Juan Guillermo Gómez (juan.gomez01@gmail.com)
-* Linkedin: [@jggomezt](https://www.linkedin.com/in/jggomezt
+Linkedin: [@jggomezt](https://www.linkedin.com/in/jggomezt
 
 ## 🙏 Acknowledgments
 
