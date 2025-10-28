@@ -2,6 +2,17 @@
 
 A sophisticated AI-powered virtual barista system built with Google ADK (Agent Development Kit), Gemini AI, and Firebase Firestore. This multi-component system provides intelligent coffee menu assistance through natural language interactions, vector-based semantic search, and image generation capabilities.
 
+## 🧑🏽‍💻 Design Overview
+
+###  Context Diagram
+<img width="761" height="691" alt="Barista Agent System drawio" src="https://github.com/user-attachments/assets/41c8fb3a-ae36-439b-a3be-33d34a4c0f11" />
+
+### Container Diagram
+<img width="1026" height="1201" alt="Barista Agent System - Container Diagram drawio" src="https://github.com/user-attachments/assets/fa8900d4-4169-4a80-b88f-5c9f4666c405" />
+
+### Component Diagram
+<img width="1221" height="941" alt="Barista Agent System - Component Diagram drawio" src="https://github.com/user-attachments/assets/baa5eb24-6585-42aa-8653-431127d18463" />
+
 ## 🏗️ Architecture Overview
 
 This project consists of three main components:
