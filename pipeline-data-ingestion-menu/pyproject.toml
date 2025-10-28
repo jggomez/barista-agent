@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pipeline-ingest-data-menu"
+version = "0.1.0"
+description = ""
+authors = ["jggomez <juan.gomez01@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain-community = "^0.4.1"
+google-cloud-firestore = "^2.21.0"
+python-dotenv = "^1.2.1"
+google-genai = "^1.46.0"
+langchain = "^1.0.2"
+langchain-text-splitters = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

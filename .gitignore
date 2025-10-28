@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+# For poetry
+.venv
+
+# Editor-specific files
+.idea/                  # JetBrains IDEs (PyCharm, IntelliJ)
+.vscode/                # VS Code
+*.sublime-project
+*.sublime-workspace
+.DS_Store               # macOS specific
+Thumbs.db               # Windows specific
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+/logs/
+/data/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python-specific build artifacts
+*.egg
+*.whl
+
+# Distribution / packaging
+.tox/
+.coverage
+.cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.env                   # Environment variables (often sensitive)
+.flaskenv
+instance/               # Flask instance folder
+celerybeat-schedule     # Celery beat schedule file
+.history/               # VS Code Local History
+
+.DS_Store
+.env
