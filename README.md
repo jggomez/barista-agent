@@ -319,7 +319,16 @@ Each item includes name, description, and price.
 - `requests` - HTTP client
 
 ## Testing
+
+### Try out!
 https://barista-agent-ui-823002731253.us-central1.run.app
+
+### Web UI 1
+<img width="1906" height="938" alt="Screenshot 2025-10-28 at 1 51 24 a m" src="https://github.com/user-attachments/assets/53182285-a77e-44b6-8807-89f7614907ce" />
+
+### Web UI 2
+<img width="1900" height="937" alt="Screenshot 2025-10-28 at 1 51 34 a m" src="https://github.com/user-attachments/assets/200e53ce-37ea-402f-8293-020b25dbc963" />
+
 
 ## 🤝 Contributing
 
