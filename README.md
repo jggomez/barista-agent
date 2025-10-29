@@ -8,10 +8,11 @@ A sophisticated AI-powered virtual barista system built with Google ADK (Agent D
 <img width="761" height="691" alt="Barista Agent System drawio" src="https://github.com/user-attachments/assets/41c8fb3a-ae36-439b-a3be-33d34a4c0f11" />
 
 ### Container Diagram
-<img width="1026" height="1201" alt="Barista Agent System - Container Diagram drawio" src="https://github.com/user-attachments/assets/fa8900d4-4169-4a80-b88f-5c9f4666c405" />
+<img width="1136" height="1201" alt="Barista Agent System - Container Diagram drawio" src="https://github.com/user-attachments/assets/14c166c1-6b9c-49ad-9a12-613a52ad45f5" />
 
 ### Component Diagram
-<img width="1221" height="941" alt="Barista Agent System - Component Diagram drawio" src="https://github.com/user-attachments/assets/baa5eb24-6585-42aa-8653-431127d18463" />
+<img width="1351" height="1021" alt="Barista Agent System - Component Diagram drawio" src="https://github.com/user-attachments/assets/6f526e65-66a1-4d82-bf04-ab99468dae49" />
+
 
 ## 🏗️ Architecture Overview
 
