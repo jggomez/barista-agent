@@ -1,5 +1,6 @@
 import os
 
+import google.cloud.logging
 from dotenv import load_dotenv
 from google.adk.agents import LlmAgent
 
@@ -9,6 +10,9 @@ from .tools.common_tools import get_today_date
 from .tools.image_coffee_tools import create_image_coffee
 from .tools.menu_tools import get_menu_items
 from .tools.promotions_tools import get_current_promotion
+
+client = google.cloud.logging.Client()
+client.setup_logging()
 
 load_dotenv()
 

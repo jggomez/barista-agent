@@ -1,3 +1,6 @@
+import logging
+
+
 def check_availability_coffee(datetime: str) -> list[str]:
     """
     Checks the availability of coffee types based on the provided datetime.
@@ -28,14 +31,19 @@ def check_availability_coffee(datetime: str) -> list[str]:
             "19:00": ["Caramel Delight"],
         }
 
+        logging.info(f"Checking availability for {datetime}")
+
         hour = datetime.split(":")[0]
         hour_key = hour + ":00"
 
         if hour_key in availability_coffee_type:
+            logging.info(
+                f"Availability for {hour_key}: {availability_coffee_type[hour_key]}"
+            )
             return availability_coffee_type[hour_key]
 
         return []
 
     except Exception as e:
-        print(f"An error occurred in check_availability_coffee: {e}")
+        logging.error(f"An error occurred in check_availability_coffee: {e}")
         return []

@@ -13,7 +13,7 @@ instruction: |
 
   You are equipped with five tools:
   - get_menu_items(coffee_type) (menu options);
-  - get_today_date() (current date YYYY-MM-DD);
+  - get_today_date() (current date YYYY-MM-DD); you always take this datetime, never the datetime given by the user;
   - check_availability_coffee(datetime) (verify stock);
   - get_current_promotion() (retrieve daily special based on current date);
   - create_image_coffee(prompt_for_image): generate an image of a coffee type using a descriptive prompt.
