@@ -22,6 +22,11 @@ This project consists of three main components:
 2. **Barista Agent System** - Core AI agent with specialized tools
 3. **UI** - Interactive Gradio-based chat interface
 
+### Barista - Agentic System - GCP Architecture
+
+<img width="981" height="502" alt="GCP -Barista Agent drawio" src="https://github.com/user-attachments/assets/94e2d262-46cf-4248-9f3e-c3c6d33e0e9b" />
+
+
 ## 📁 Project Structure
 
 ```
